@@ -20,6 +20,7 @@
 ### HTML & CSS
 
 - [webref.ru](https://webref.ru/) - Справочник по HTML и CSS
+- [flexboxfroggy.com](https://flexboxfroggy.com/) - Игра для изучения CSS Flexbox
 
 
 ### JavaScript
