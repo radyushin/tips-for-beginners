@@ -1,8 +1,6 @@
 # Советы начинающим программистам
 
-### Общее
-
-**Ресурсы**
+### Ресурсы
 
 - [codecademy.com](https://www.codecademy.com/) - отличная обучалка, поделенная на блоки. Первый - объяснения как писать код, второй - пишите код сразу, используя левый блок как пример, третий - итог вашего кода, обычно там что-то работает
 - [freecodecamp.org](https://www.freecodecamp.org/) - обучалка, вроде как codecademy
@@ -10,7 +8,7 @@
 - [stackoverflow.com](https://ru.stackoverflow.com/) - на русском ссылка, это именно форум вопросов ответов, оч полезная штука)
 - [toster.ru](https://toster.ru/) - аналог stackoverflow
 
-**Полезное**
+### Полезное
 
 - [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap/)
 - [Еще roadmap 2018](https://proglib.io/p/web-developer-2018/)
