@@ -36,3 +36,8 @@
 - [laracasts.com](https://laracasts.com/) - Скринкасты по Laravel и PHP
 - [php the right way](https://phptherightway.com/) - Руководство по современному PHP
 - [Современный PHP](https://www.ozon.ru/context/detail/id/135695718/) - Книга по PHP
+
+
+### Git
+
+- [githowto.com](https://githowto.com/) - Интерактивный учебник по git
