@@ -35,8 +35,12 @@
 ### JavaScript
 
 - [learn.javascript.ru](https://learn.javascript.ru/) - Современный учебник JavaScript
-- [wesbos.com](https://wesbos.com/) - Видеоуроки по JavaScript и React
 - [Все по JS](https://github.com/snipcart/learn-vanilla-js/) - Сборник материалов по JS
+- [wesbos.com](https://wesbos.com/) - Видеоуроки по JavaScript и React
+
+### React.js
+
+- [reactforbeginners.com](https://reactforbeginners.com/) - Курс по React.js для начинающих от WesBos
 - [Awesome React](https://github.com/enaqx/awesome-react/) - Сборник материалов по React.js
 
 ### PHP
