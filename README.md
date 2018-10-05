@@ -34,7 +34,7 @@
 
 ### JavaScript
 
-- [https://developer.mozilla.org/ru/docs/Web/JavaScript](MDN web docs) - Исчерпывающая документация по JavaScript и Browser API
+- [MDN web docs](https://developer.mozilla.org/ru/docs/Web/JavaScript) - Исчерпывающая документация по JavaScript и Browser API
 - [learn.javascript.ru](https://learn.javascript.ru/) - Современный учебник JavaScript
 - [Все по JS](https://github.com/snipcart/learn-vanilla-js/) - Сборник материалов по JS
 - [wesbos.com](https://wesbos.com/) - Видеоуроки по JavaScript и React
