@@ -27,6 +27,7 @@
 
 ### HTML & CSS
 
+- [CSS Diner](https://flukeout.github.io/) - Игра для изучения CSS селекторов
 - [webref.ru](https://webref.ru/) - Справочник по HTML и CSS
 - [flexboxfroggy.com](https://flexboxfroggy.com/) - Игра для изучения CSS Flexbox
 - [cssgridgarden.com](https://cssgridgarden.com/) - Игра для изучения CSS Grid
