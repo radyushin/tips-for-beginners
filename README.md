@@ -39,6 +39,7 @@
 - [learn.javascript.ru](https://learn.javascript.ru/) - Современный учебник JavaScript
 - [Все по JS](https://github.com/snipcart/learn-vanilla-js/) - Сборник материалов по JS
 - [wesbos.com](https://wesbos.com/) - Видеоуроки по JavaScript и React
+- [youmightnotneedjquery.com](http://youmightnotneedjquery.com/) - Вам не нужен jQuery. Нативные аналоги jQuery методов.
 
 ### React.js
 
