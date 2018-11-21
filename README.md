@@ -56,4 +56,4 @@
 ### Git
 
 - [githowto.com](https://githowto.com/) - Интерактивный учебник по git
-- [gitbranching.js.org](https://gitbranching.js.org/) - Еще один интерактивный учебник
+- [learngitbranching.js.org](https://learngitbranching.js.org) - Еще один интерактивный учебник
