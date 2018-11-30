@@ -51,7 +51,7 @@
 - [laracasts.com](https://laracasts.com/) - Скринкасты по Laravel и PHP
 - [php the right way](https://phptherightway.com/) - Руководство по современному PHP
 - [Современный PHP](https://www.ozon.ru/context/detail/id/135695718/) - Книга по PHP
-- [Codedocode](https://codedokode.github.io/phpbook) - Уроки PHP в виде комиксов для начинающих
+- [Codedokode](https://codedokode.github.io/phpbook) - Уроки PHP в виде комиксов для начинающих
 
 
 ### Git
