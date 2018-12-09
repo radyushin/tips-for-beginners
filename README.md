@@ -31,6 +31,7 @@
 - [webref.ru](https://webref.ru/) - Справочник по HTML и CSS
 - [flexboxfroggy.com](https://flexboxfroggy.com/) - Игра для изучения CSS Flexbox
 - [cssgridgarden.com](https://cssgridgarden.com/) - Игра для изучения CSS Grid
+- [supermarkupworld.com](http://supermarkupworld.com/) - Изучение HTML и CSS в игровой форме
 
 
 ### JavaScript
